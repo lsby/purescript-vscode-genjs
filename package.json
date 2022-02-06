@@ -2,6 +2,7 @@
   "name": "purescript-vscode-genjs",
   "displayName": "purescript-vscode-genjs",
   "description": "快速生成purs绑定的js文件",
+  "publisher": "hbybyyang",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.64.0"
